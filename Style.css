@@ -1,0 +1,66 @@
+h1 {
+    color : brown;
+}
+
+* {
+    border : solid;
+    font-style : italic;
+}
+
+h3 {
+    color : red;
+}
+
+* {
+    border : solid;
+    font-style : italic; 
+}
+
+p {
+    color : black;
+}
+
+* {
+    border : solid;
+    font-style : bold;
+    font-size: larger;
+    
+
+}
+
+a {
+    color : green;
+}
+
+* {
+    border: solid;
+    font-style: bold;
+
+}
+
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-between;
+    background-color: khaki;
+    ;
+
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+h2{
+    text-align: center;
+    background-color:yellowgreen;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
