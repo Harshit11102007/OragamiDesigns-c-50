@@ -23,7 +23,7 @@ p {
 * {
     border : solid;
     font-style : bold;
-    font-size: larger;
+    
     
 
 }
@@ -44,14 +44,14 @@ a {
     display: flex;
     justify-content: space-between;
     background-color: khaki;
-    ;
+    font-size: larger;
 
 }
 
 .grid{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content:space-around;
 }
 
 
